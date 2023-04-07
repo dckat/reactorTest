@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Stream;
 
-public class FluxCreationTest {
+public class FluxCreationTests {
 
     // 객체로 생성
     @Test
